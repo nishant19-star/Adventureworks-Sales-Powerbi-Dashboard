@@ -25,10 +25,11 @@ and product categories, and spot growth opportunities and return-rate issues.
 4. **Selected Product**: monthly sales, orders, and profit vs. target, with a what-if adjustment parameter
 
 ## Screenshots
-![Executive Summary](screenshots/01_executive_summary.png)
-![Continent Analysis](screenshots/02_continent_analysis.png)
-![Category Analysis](screenshots/03_category_analysis.png)
-![Selected Product](screenshots/04_selected_product.png)
+![Executive Summary](Screenshots/01_executive_summary.PNG)
+![Continent Analysis](Screenshots/02_continent_analysis.PNG)
+![Category Analysis](Screenshots/03_category_analysis.PNG)
+![Selected Product](Screenshots/04_selected_product.PNG)
+
 
 ## Key Insights
 - Bikes generate about 93% of total profit.
